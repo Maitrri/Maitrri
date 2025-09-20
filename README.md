@@ -5,7 +5,6 @@
 
 Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓  
 
----
 
 ## ✨ About Me  
 
