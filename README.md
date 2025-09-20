@@ -45,7 +45,7 @@ Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓
 - 🚌 **City Mobility Insights Dashboard** → Analyzed urban transport data in Power BI to uncover demand surges, optimize routes, and predict peak-hour traffic.  
 - 📂 **Semantic File Classifier** → Organized unstructured data with embeddings + Pinecone, turning chaotic drives into smart knowledge hubs.  
 - 💬 **Smart Data Chatbot** → Gemini + LangChain bot that makes SQL/NoSQL queries feel like texting a friend.  
-- 
+ 
 
 ---
 
