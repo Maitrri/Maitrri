@@ -28,24 +28,23 @@ Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓
 
 ---
 
-## 🛠️ Tech Playground  
+## 🛠️ Tech Playground 
 
-**📊 Data & Visualization:** `Pandas` · `NumPy` · `SQL` · `Tableau` · `Power BI` · `Excel` · `Matplotlib` · `Seaborn`  
-**🤖 Machine Learning & AI:** `Scikit-Learn` · `TensorFlow` · `PyTorch` · `XGBoost` · `Hugging Face` · `BERT` · `LangChain`  
-**☁️ Big Data & Cloud:** `Apache Spark` · `Hadoop` · `Kafka` · `AWS (EC2, S3, DynamoDB)` · `MongoDB` · `Redis` · `Firebase`  
 **🌐 Web & App Dev:** `React` · `NodeJS` · `Flask` · `WordPress` · `Dash`  
 **⚙️ Programming:** `Python` · `Java` · `C++` · `JavaScript` · `R` · `HTML/CSS` · `PHP`  
-**📌 Project Management & Tools:** `Agile` · `Scrum` · `Kanban` · `Jira` · `Trello` · `Confluence` · `Git` · `Docker`  
-
+**📊 Data & Visualization:** `Pandas` · `NumPy` · `SQL` · `Tableau` · `Power BI` · `Excel` · `Matplotlib` · `Seaborn`  
+**📌 Project Management & Tools:** `Agile` · `Scrum` · `Kanban` · `Jira` · `Trello` · `Confluence` · `Git` · `Docker` 
+**🤖 Machine Learning & AI:** `Scikit-Learn` · `TensorFlow` · `PyTorch` · `XGBoost` · `Hugging Face` · `BERT` · `LangChain`  
+**☁️ Big Data & Cloud:** `Apache Spark` · `Hadoop` · `Kafka` · `AWS (EC2, S3, DynamoDB)` · `MongoDB` · `Redis` · `Firebase`  
 ---
-
 ## 💡 Recent Fun Projects  
 
+  ✨ *More fun AI-based projects loading… stay tuned!*  
 - 🎓 **AI College Admissions Assistant** → Chatbot that reads essays & forms to give students real-time guidance (your counselor but powered by BERT 🤖).  
 - 🚌 **City Mobility Insights Dashboard** → Analyzed urban transport data in Power BI to uncover demand surges, optimize routes, and predict peak-hour traffic.  
 - 📂 **Semantic File Classifier** → Organized unstructured data with embeddings + Pinecone, turning chaotic drives into smart knowledge hubs.  
 - 💬 **Smart Data Chatbot** → Gemini + LangChain bot that makes SQL/NoSQL queries feel like texting a friend.  
-- ✨ *More fun AI-based projects loading… stay tuned!*  
+- 
 
 ---
 
@@ -55,14 +54,7 @@ Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓
 - 🎨 I paint when code gets messy.  
 - 🌮 I believe data pipelines should be like tacos: layered, colorful and satisfying.  
 - 🤝 Motto: *Tech only matters when it makes life easier.*  
-
 ---
-
-## 📫 Let’s Connect  
-
-💼 [LinkedIn](https://www.linkedin.com/in/maitrrichandra)  
-💻 [GitHub](https://github.com/maitrri)  
-
 ⭐ Check out my repos → they’re basically my digital playground!  
 ⚡ *If you scrolled this far, you deserve a cookie 🍪 (data-approved).*  
 
@@ -87,20 +79,8 @@ Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="HuggingFace" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" alt="XGBoost" width="40" height="40"/>
-</p>
-
----
-
-### 📈 Data Visualization  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>
+  
 </p>
 
 ---
@@ -112,7 +92,6 @@ Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
