@@ -1,3 +1,73 @@
+# 🌸 Hey there, I’m Maitrri Jayant Chandra !!
+
+💻 Data Scientist • 📊 Data Analyst  • 🌐 Full Stack Developer
+📈 Aspiring Technical Project Manager • 🤖 AI/ML Engineer • ⚡ Data Engineer • 🎨 Creative Soul  
+
+Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓  
+
+---
+
+## ✨ About Me  
+
+- 🚀 I build data-driven products that make tech **useful, human and scalable**  
+- 🧠 I love combining **machine learning, data visualization and product strategy** to solve real-world problems  
+- 📊 Obsessed with presenting insights through **Tableau & Power BI dashboards** that tell compelling stories  
+- 🌎 Big fan of **collaboration, hackathons and brainstorming sticky notes**  
+- 🎶 Outside of tech: I dance, paint, play badminton, run and sometimes… debug life like it’s Python 🐍  
+
+---
+
+## 🔬 Current Roles  
+
+- 🎓 **Research Assistant @ USC Human Performance Lab**  
+  Analyzing biomedical data + predictive modeling for athlete performance & injury prevention.  
+
+- 💬 **Tech Mentor @ USC SC-ACE Program**  
+  Guiding undergrads in Python, Pandas and ML for real-world problem-solving.  
+
+- 🎭 **Creative Explorer**  
+  Dance + painting + storytelling - because creativity powers innovation.  
+
+---
+
+## 🛠️ Tech Playground  
+
+**📊 Data & Visualization:** `Pandas` · `NumPy` · `SQL` · `Tableau` · `Power BI` · `Excel` · `Matplotlib` · `Seaborn`  
+**🤖 Machine Learning & AI:** `Scikit-Learn` · `TensorFlow` · `PyTorch` · `XGBoost` · `Hugging Face` · `BERT` · `LangChain`  
+**☁️ Big Data & Cloud:** `Apache Spark` · `Hadoop` · `Kafka` · `AWS (EC2, S3, DynamoDB)` · `MongoDB` · `Redis` · `Firebase`  
+**🌐 Web & App Dev:** `React` · `NodeJS` · `Flask` · `WordPress` · `Dash`  
+**⚙️ Programming:** `Python` · `Java` · `C++` · `JavaScript` · `R` · `HTML/CSS` · `PHP`  
+**📌 Project Management & Tools:** `Agile` · `Scrum` · `Kanban` · `Jira` · `Trello` · `Confluence` · `Git` · `Docker`  
+
+---
+
+## 💡 Recent Fun Projects  
+
+- 🎓 **AI College Admissions Assistant** → Chatbot that reads essays & forms to give students real-time guidance (your counselor but powered by BERT 🤖).  
+- 🚌 **City Mobility Insights Dashboard** → Analyzed urban transport data in Power BI to uncover demand surges, optimize routes, and predict peak-hour traffic.  
+- 📂 **Semantic File Classifier** → Organized unstructured data with embeddings + Pinecone, turning chaotic drives into smart knowledge hubs.  
+- 💬 **Smart Data Chatbot** → Gemini + LangChain bot that makes SQL/NoSQL queries feel like texting a friend.  
+- ✨ *More fun AI-based projects loading… stay tuned!*  
+
+---
+
+## 🌟 Fun Facts  
+
+- 🧘 Yoga + dance keep me balanced (literally).  
+- 🎨 I paint when code gets messy.  
+- 🌮 I believe data pipelines should be like tacos: layered, colorful and satisfying.  
+- 🤝 Motto: *Tech only matters when it makes life easier.*  
+
+---
+
+## 📫 Let’s Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/maitrrichandra)  
+💻 [GitHub](https://github.com/maitrri)  
+
+⭐ Check out my repos → they’re basically my digital playground!  
+⚡ *If you scrolled this far, you deserve a cookie 🍪 (data-approved).*  
+
 ## 🔧 My Specialties & Tech Stack  
 
 ### 📊 Data Science & Analytics  
