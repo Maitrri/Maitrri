@@ -1,11 +1,10 @@
-# 🌸 Hey there, I’m Maitrri Jayant Chandra !!
+# 👋 Hey there, I’m Maitrri Jayant Chandra !!
 
 💻 Data Scientist • 📊 Data Analyst  • 🌐 Full Stack Developer
 📈 Aspiring Technical Project Manager • 🤖 AI/ML Engineer • ⚡ Data Engineer • 🎨 Creative Soul  
 
 Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓  
-
-
+---
 ## ✨ About Me  
 
 - 🚀 I build data-driven products that make tech **useful, human and scalable**  
