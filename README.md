@@ -28,14 +28,15 @@ Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓
 
 ---
 
-## 🛠️ Tech Playground 
+## 🛠️ Tech Playground  
 
-**🌐 Web & App Dev:** `React` · `NodeJS` · `Flask` · `WordPress` · `Dash`  
-**⚙️ Programming:** `Python` · `Java` · `C++` · `JavaScript` · `R` · `HTML/CSS` · `PHP`  
 **📊 Data & Visualization:** `Pandas` · `NumPy` · `SQL` · `Tableau` · `Power BI` · `Excel` · `Matplotlib` · `Seaborn`  
-**📌 Project Management & Tools:** `Agile` · `Scrum` · `Kanban` · `Jira` · `Trello` · `Confluence` · `Git` · `Docker` 
 **🤖 Machine Learning & AI:** `Scikit-Learn` · `TensorFlow` · `PyTorch` · `XGBoost` · `Hugging Face` · `BERT` · `LangChain`  
 **☁️ Big Data & Cloud:** `Apache Spark` · `Hadoop` · `Kafka` · `AWS (EC2, S3, DynamoDB)` · `MongoDB` · `Redis` · `Firebase`  
+**🌐 Web & App Dev:** `React` · `NodeJS` · `Flask` · `WordPress` · `Dash`  
+**⚙️ Programming:** `Python` · `Java` · `C++` · `JavaScript` · `R` · `HTML/CSS` · `PHP`  
+**📌 Project Management & Tools:** `Agile` · `Scrum` · `Kanban` · `Jira` · `Trello` · `Confluence` · `Git` · `Docker`  
+
 ---
 ## 💡 Recent Fun Projects  
 
