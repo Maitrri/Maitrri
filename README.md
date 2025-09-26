@@ -54,7 +54,7 @@ Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓
 - 🧘 Yoga + dance keep me balanced (literally).  
 - 🎨 I paint when code gets messy.  
 - 🌮 I believe data pipelines should be like tacos: layered, colorful and satisfying.  
-- 🤝 Motto: *Tech only matters when it makes life easier.*  
+ 
 ---
 ⭐ Check out my repos → they’re basically my digital playground!  
 ⚡ *If you scrolled this far, you deserve a cookie 🍪 (data-approved).*  
@@ -67,7 +67,7 @@ Currently pursuing my **Master’s in Applied Data Science @ USC** 🎓
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="SciPy" width="40" height="40"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
